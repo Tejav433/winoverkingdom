@@ -1,0 +1,88 @@
+                                                        TAME OF THRONES
+
+USAGE
+
+PROBLEM 1 - GOLDEN CROM
+
+--> command for program running on terminal or cmd
+
+    python p1_GoldenCrown.py
+
+
+I ASSUMED THAT USER ENTER THE INPUT FOR NO OF KINGDOMS TO SEND MESSAGES FOR ALLEGIANCE
+
+------------SAMPLE INPUT & OUTPUT------------
+
+Who is the ruler of Southeros?
+Ouput: None
+Allies of Ruler?
+Output: None
+
+Enter the no of kingdoms to send messages (Greater than or Equal to 3):
+// BECAUSE He became RULER if WIN OVER >= 3 kingdoms 
+4
+
+Input: Air, “Let’s swing the sword together”
+Input: Air, “oaaawaala” Input: Land, “Die or play the tame of thrones”
+Input: Land, “a1d22n333a4444p” Input: Ice, “Ahoy! Fight for me with men and money”
+Input: Ice, “zmzmzmzaztzozh” Input: Water, “Summer is coming”
+
+Who is the ruler of Southeros?
+Output: King Shan
+Allies of King Shan?
+Output: Air, Land, Ice
+
+_____________________________________________________________________________________________________________________
+
+
+PROBLEM 2 - BREAKER OF CHAINS
+
+--> command for program running on terminal or cmd
+
+    python p2_BreakerofChains.py
+
+FOR THIS PROBLEM YOU ONLY ENTER THE KINGDOMS THAT ARE COMPETING FOR THE RULER
+
+------------SAMPLE INPUT & OUTPUT------------
+
+Who is the ruler of Southeros?
+Ouput: None
+Allies of Ruler?
+Output: None
+
+Enter the competing kingoms space separated :
+
+Ice Space Air
+
+Messages thar are picked randomly by High priest :
+
+ice,land,"What could we say to the Lord of Death? Game on?",
+
+space,land,"Let's swing the sword together",
+
+air,land,"Crazy Fredrick bought many very exquisite pearl, emerald and diamond jewels.",
+
+air,water,"Go ring all the bells",
+
+air,fire,"Death is so terribly final, while life is full of possibilities.",
+
+space,fire,"Turn us away, and we will burn you first",
+
+
+Results After round  1  ballot count :
+Allies for  Air  : 1
+Allies for  Ice  : 0
+Allies for  Space  : 0
+
+
+Who is the ruler of Southeros?
+air
+Allies of Ruler?
+Land
+
+_____________________________________________________________________________________
+
+
+
+
+
